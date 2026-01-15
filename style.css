@@ -1,30 +1,36 @@
 @font-face {
-    font-family: esmeralda;
-    src: url('esmeraldagroterk-Regular.otf') format('opentype');
+  font-family: stamp;
+  src: url("Stamp.ttf") format("opentype");
 }
 nav {
-    font-family: esmeralda;
+  font-family: stamp;
 }
 a {
-    color: #00000e;
+  color: #00000e;
 }
-h1, h2 {
-    text-align: center;
-    font-family: esmeralda;
+h2 {
+  font-size: 5rem;
+  text-align: center;
+  font-family: stamp;
+}
+h1 {
+  text-align: center;
+  font-family: stamp;
+  font-size: 7rem;
 }
 .thumbnail {
-    border : thin solid #00000e;
-    padding: 4px;
-    margin: 25px;
-    display: inline-block;
-    text-align: center;
+  border: thin solid #00000e;
+  padding: 4px;
+  margin: 25px;
+  display: inline-block;
+  text-align: center;
 }
 
 .thumbnail img {
-    margin: 5px;
-    width: 50px;
-    height: 50px;
+  margin: 5px;
+  width: 50px;
+  height: 50px;
 }
 .thumbnail a {
-    text-decoration: none;}
-
+  text-decoration: none;
+}
