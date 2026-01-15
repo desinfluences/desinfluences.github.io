@@ -4,6 +4,12 @@
 }
 nav {
   font-family: stamp;
+  text-align: center;
+  font-size: 2.3rem;
+  word-spacing: 5rem;
+}
+div.navbar {
+  margin: 10px;
 }
 a {
   color: #00000e;
@@ -12,11 +18,15 @@ h2 {
   font-size: 5rem;
   text-align: center;
   font-family: stamp;
+  margin: 0%;
+  margin-top: 4%;
 }
+
 h1 {
   text-align: center;
   font-family: stamp;
   font-size: 7rem;
+  margin: 0%;
 }
 .thumbnail {
   border: thin solid #00000e;
