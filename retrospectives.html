@@ -6,10 +6,11 @@ title : retrospectives
 <h2>retrospectives</h2>
 <p>ici c blog reviews</p>
 
-<ul>
+
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+  <div class ="thumbnail">
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <img src="{{ post.images }}" />
+  </div>
   {% endfor %}
 </ul>

@@ -1,7 +1,11 @@
 ---
 layout: default
 title : courstest
+images : /images/pale.JPG
 ---
+![palehorse](/images/pale.JPG)
+
+
 # Séance 5, La polyphonie
 ___
 

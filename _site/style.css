@@ -4,3 +4,16 @@ a {
 h1, h2 {
     text-align: center;
 }
+.thumbnail {
+    border : thin solid #00000e;
+    padding: 4px;
+    margin: 25px;
+    display: inline-block;
+    text-align: center;
+}
+
+.thumbnail img {
+    margin: 5px;
+    width: 50px;
+    height: 50px;
+}
