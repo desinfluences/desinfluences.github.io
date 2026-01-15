@@ -1,8 +1,16 @@
+@font-face {
+    font-family: esmeralda;
+    src: url('esmeraldagroterk-Regular.otf') format('opentype');
+}
+nav {
+    font-family: esmeralda;
+}
 a {
     color: #00000e;
 }
 h1, h2 {
     text-align: center;
+    font-family: esmeralda;
 }
 .thumbnail {
     border : thin solid #00000e;
@@ -17,3 +25,5 @@ h1, h2 {
     width: 50px;
     height: 50px;
 }
+
+
