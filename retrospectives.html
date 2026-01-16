@@ -6,12 +6,12 @@ title : retrospectives
 <h2>retrospectives</h2>
 <p class="maintext">ici c blog reviews</p>
 
-  <div class="">
+  
   {% for post in site.posts %}
   <div class ="thumbnail">
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
       <img src="{{ post.images }}" />
   </div>
-  </div>
+  
   {% endfor %}
 </ul>
