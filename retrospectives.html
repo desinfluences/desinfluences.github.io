@@ -4,13 +4,14 @@ title : retrospectives
 
 ---
 <h2>retrospectives</h2>
-<p class="maintext">ici c blog reviews</p>
-
+<p class="maintext">pensées sur un album, surtout l'histoire de partager les reflexions de l'auteur et des recommendations</p>
+<p class="maintext">envoyez vos submissions a @seumimmense sur insta</p>
+<p class="maintext">par ordre de publication</p>
   
   {% for post in site.posts %}
   <div class ="thumbnail">
-      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      <img src="{{ post.images }}" />
+      <p class="posttitre"><a href="{{ post.url }}">{{ post.title }}</a></p>
+      <p class="postauteurdate">{{post.auteur}}, {{ post.date | date: "%B %d, %Y" }}</p>
   </div>
   
   {% endfor %}

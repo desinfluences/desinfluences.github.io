@@ -29,10 +29,9 @@ h1 {
   margin: 0%;
 }
 .thumbnail {
-  border: thin solid #00000e;
   padding: 4px;
   margin: 25px;
-  display: inline-block;
+
   text-align: center;
 }
 
@@ -49,6 +48,14 @@ h1 {
 }
 .thumbnail a {
   text-decoration: none;
+}
+.posttitre {
+  font-size: 1.5rem;
+  text-decoration: underline;
+}
+.postauteurdate {
+  font-size: 0.8rem;
+  font-style: italic;
 }
 
 .maintext {
