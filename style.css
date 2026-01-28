@@ -65,6 +65,19 @@ h1 {
   margin-left: 20%;
   margin-right: 20%;
 }
+.maintextpost {
+  font-size: 1.2rem;
+  text-align: justify;
+  font-family: Arial, sans-serif;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.maintextpost img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 .footer {
   text-align: center;
   font-size: 1rem;
