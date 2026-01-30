@@ -6,7 +6,7 @@ images: /images/pale.JPG
 
 ![palehorse](/images/pale.JPG)
 
-# Séance 5, La polyphonie
+## Séance 5, La polyphonie
 
 ---
 
@@ -24,7 +24,7 @@ certains discours traversants sont constitutif
 
 ---
 
-## I. **Hétérogénéité constitutive**
+### I. **Hétérogénéité constitutive**
 
 Le sujet parlant reçoit ses mots par la voix d'autrui, quand je parle j'active tout les échos des autres énonciateurs qui ont deja investis et utilisés ce mot
 Un mot a une histoire et plein de contextes ou il a été utilisé intentionellement
@@ -46,7 +46,7 @@ mon discours est tjr construit par rapport a mon interlocuteur
 
 ---
 
-#### Négation polémique
+##### Négation polémique
 
 > Monsieur, **ce n'est pas** parce que je suis son père; mais je puis dire que j'ai sujet d'être content de lui [...] **Il n'a jamais eu** l'imagination bien vive, ni ce feu d'esprit qu'on remarque dans quelques-uns; **mais** c'est par là que j'ai toujours bien auguré de sa judiciaire, qualité requise pour l'exercice de notre art. Lorsqu'il était petit, il n'a jamais été ce qu'on appelle mièvre et éveillé. On le voyait toujours doux, paisible et taciturne, ne disant jamais mot, et ne jouant jamais à tous ces petits jeux que l'on nomme enfantins. On eut toutes les peines du monde à lui apprendre à lire; et il avait neuf ans, **qu'il ne connaissait pas encore ses lettres**. Bon, disais-je en moi-même: les arbres tardifs sont ceux qui portent les meilleurs fruits.
 
@@ -56,7 +56,7 @@ anticipe des objections
 
 ---
 
-#### Diaphonie
+##### Diaphonie
 
 -> faire parler une autre personne pour lui répondre
 
@@ -72,7 +72,7 @@ Le je est chef d'orchestre des différentes voix
 
 ---
 
-#### Modalisation autonymique des ilots textuels
+##### Modalisation autonymique des ilots textuels
 
 > De ce poste élevé elle participait avec entrain à la conversation des fidèles et s’égayait de leurs « fumisteries », mais depuis l’accident qui était arrivé à sa mâchoire, elle avait renoncé à prendre la peine de pouffer effectivement et se livrait à la place à une mimique conventionnelle qui signifiait, sans fatigue ni risques pour elle, qu’elle riait aux larmes.
 

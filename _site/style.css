@@ -18,6 +18,7 @@ a {
 a:hover {
   color: #ff0000;
 }
+
 h2 {
   font-size: 5rem;
   text-align: center;
@@ -81,10 +82,20 @@ h1 {
   margin-right: auto;
   width: 50%;
 }
+.maintextpost h2 {
+  margin-left: 20%;
+}
 .footer {
   text-align: center;
   font-size: 1rem;
   font-family: Arial, sans-serif;
   margin-top: 20px;
   margin-bottom: 10px;
+}
+.backlinkblog {
+  font-size: 1rem;
+  font-family: Arial, sans-serif;
+  margin-left: 20%;
+  margin-right: 20%;
+  text-decoration: none;
 }
