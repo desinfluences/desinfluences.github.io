@@ -9,9 +9,12 @@ nav {
   font-size: 2.3rem;
   word-spacing: 5rem;
 }
-div.navbar {
+
+/* div.navbar { je vire pour l'instant
   margin: 10px;
 }
+*/
+
 a {
   color: #00000e;
 }
@@ -66,8 +69,8 @@ h1 {
   font-size: 1.2rem;
   text-align: justify;
   font-family: Arial, sans-serif;
-  margin-left: 12%;
-  margin-right: 12%;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 .maintextpost {
   font-size: 1.2rem;
